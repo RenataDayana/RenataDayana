@@ -6,9 +6,8 @@ I'm a Nutritionist graduated from UNIP 🎓 and future Developer Full-stack Java
 My experience in the area of health has aroused in me the desire to innovate and make a difference in society.
 From my first contact with logic and programming, I realized that it is possible to change the world through technology. Since then, I have sought to improve my technical and behavioral skills! Soon, I'll be a Java Developer!🌎
 
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-### 🌍 "O conhecimento destrói mitos" 🧠
+## 🌍 "O conhecimento destrói mitos" 🧠
 
 - 📍 From São Paulo-SP 
 - 💻  Full stack developer in training 
