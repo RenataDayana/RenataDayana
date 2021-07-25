@@ -10,7 +10,7 @@ From my first contact with logic and programming, I realized that it is possible
 ## 🌍 "O conhecimento destrói mitos" 🧠
 
 - 📍 From São Paulo-SP 
-- 💻  Full stack developer in training 
+- 💻  Full-stack developer in training
 
 
 Reach me out 👇🏼
