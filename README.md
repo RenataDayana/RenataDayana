@@ -4,7 +4,9 @@ My name is Renata Menezes 👩🏽BR
 
 I'm a Nutritionist graduated from UNIP 🎓 and future Developer Full-stack Java!👩🏻‍💻
 My experience in the area of health has aroused in me the desire to innovate and make a difference in society.
-From my first contact with logic and programming, I realized that it is possible to change the world through technology. Since then, I have sought to improve my technical and behavioral skills! Soon, I'll be a Java Developer!🌎
+From my first contact with logic and programming, I realized that it is possible to change the world through technology. Since then, I have sought to improve my technical and behavioral skills!
+I'm currently participating in Generation Brasil's Bootcamp, where I've learned to work with various technologies such as Java, SQL, Spring Framework and HTML / CSS / Javascript.
+Soon, I'll be a Java Developer!🌎
 
 
 ## 🌍 "O conhecimento destrói mitos" 🧠
