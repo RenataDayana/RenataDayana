@@ -15,6 +15,8 @@ Soon, I'll be a Java Developer!🌎
 - 💻  Full-stack developer in training
 
 
+ ![Snake animation](https://github.com/RenataDayana/RenataDayana/blob/output/github-contribution-grid-snake.svg)
+
 Reach me out 👇🏼
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renata-dayana-de-oliveira-menezes-19a57549/)](https://www.linkedin.com/in/renata-dayana-de-oliveira-menezes-19a57549/)
@@ -22,3 +24,5 @@ Reach me out 👇🏼
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renata.dayana@gmail.com)](mailto:renata.dayana@gmail.com)
 
 
+ 
+</div>
