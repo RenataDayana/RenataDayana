@@ -8,16 +8,16 @@ From my first contact with logic and programming, I realized that it is possible
 I'm currently participating in Generation Brasil's Bootcamp, where I've learned to work with various technologies such as Java, SQL, Spring Framework and HTML / CSS / Javascript.
 Soon, I'll be a Java Developer!🌎
 
+## 🌍 "O conhecimento destrói mitos" 🧠
+
+- 📍 From São Paulo-SP 
+- 💻  Full-stack developer in training
+
  <div>
   <a href="https://github.com/RenataDayana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenataDayana&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenataDayana&layout=compact&langs_count=7&theme=light"/>
 </div>
-
-## 🌍 "O conhecimento destrói mitos" 🧠
-
-- 📍 From São Paulo-SP 
-- 💻  Full-stack developer in training
 
 
  ![Snake animation](https://github.com/RenataDayana/RenataDayana/blob/output/github-contribution-grid-snake.svg)
