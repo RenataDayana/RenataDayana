@@ -6,7 +6,7 @@ I'm a Developer Full-stack Java!👩🏻‍💻
 My professional experiences has aroused in me the desire to innovate and make a difference in society.
 From my first contact with logic and programming, I realized that it is possible to change the world through technology. Since then, I have sought to improve my technical and behavioral skills!🌎
 
-## 🌍 "O conhecimento destrói mitos" 🧠
+## 🌍 "É justo que muito custe, aquilo que muito vale." 🧠
 
 - 📍 From São Paulo-SP 
 - 💻  Full-stack developer Jr.
