@@ -4,6 +4,8 @@ on:
   schedule: # execute every 12 hours
     - cron: "* */11 * * *"
   workflow_dispatch:
+  
+  //trfro
 
 jobs:
   build:
